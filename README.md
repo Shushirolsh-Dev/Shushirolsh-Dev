@@ -2,9 +2,13 @@
   <h1>Jonathan Peter <code>@Shushirolsh-Dev</code></h1>
   <p><b>Founder & Full-Stack Engineer</b> · Computer Engineering @ OAU</p>
   
-  <a href="https://thesdel.com/litheral"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jonathan-peter-48a1ab383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/jonathanpeter_p"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=24292F&left=true&vLeft=true&width=600&lines=Building+THESDEL;Scaling+to+300%2B+users;Engineering+with+Go+and+React" alt="Typing SVG" />
+  
+  <br/><br/>
+
+  <a href="https://thesdel.com/litheral"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=24292F" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jonathan-peter-48a1ab383"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=24292F" alt="LinkedIn" /></a>
+  <a href="https://x.com/jonathanpeter_p"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=24292F" alt="X" /></a>
 </div>
 
 <br />
@@ -15,8 +19,14 @@
 
 ### `01` // ACTIVE BUILD
 
-**THESDEL** — *The Student Digital Exchange Layer*
+**THESDEL** — *The Student Digital Exchange Layer* 
+<img src="https://img.shields.io/badge/v1_Users-300%2B_in_1_week-blue?style=flat-square" alt="Users" />
+<img src="https://img.shields.io/badge/v2_Signups-55%2B_and_counting-success?style=flat-square" alt="V2 Signups" />
+
 > Founded and engineered a full-stack platform for university students. Built a unified UI that dynamically adapts based on Role-Based Access Control (Admin, Class Rep, Student). 
+> 
+> **Product Iteration & Traction:** Launched v1 and acquired 300+ users within the first week. Analyzed churn metrics and gathered user reviews, identifying that the MVP suffered from feature creep. Pivoted the architecture to solve a single core problem (class management), resulting in a focused v2 that secured 55+ new signups rapidly.
+> 
 > **Stack:** React · TypeScript · Go · Supabase · PostgreSQL
 > **Live:** [thesdel.com](https://thesdel.com) · **Architecture:** [Showcase Repo](https://github.com/Shushirolsh-Dev/thesdel-showcase)
 
